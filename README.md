@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudeep</h1>
+<h1 align="center">Hi 👋, I'm Sudhish Rithvik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhish-rithvik&label=Profile%20views&color=0e75b6&style=flat" alt="sudhish-rithvik" /> </p>
