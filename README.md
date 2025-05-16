@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building a website**
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning *Express.js and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudhish-rithvik](https://github.com/sudhish-rithvik)
 
