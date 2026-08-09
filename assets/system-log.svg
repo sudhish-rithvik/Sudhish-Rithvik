@@ -24,23 +24,23 @@
 
   <text id="lang1-name" x="46" y="174" fill="#dfe5ea" font-size="11">Python</text>
   <rect x="150" y="163" width="520" height="12" rx="6" fill="#242b32"/>
-  <rect id="lang1-bar" x="150" y="163" width="360" height="12" rx="6" fill="#8caac0"/>
-  <text id="lang1-pct" x="690" y="174" fill="#8caac0" font-size="10">--%</text>
+  <rect id="lang1-bar" x="150" y="163" width="504" height="12" rx="6" fill="#8caac0"/>
+  <text id="lang1-pct" x="690" y="174" fill="#8caac0" font-size="10">97.0%</text>
 
-  <text id="lang2-name" x="46" y="210" fill="#dfe5ea" font-size="11">JavaScript</text>
+  <text id="lang2-name" x="46" y="210" fill="#dfe5ea" font-size="11">TypeScript</text>
   <rect x="150" y="199" width="520" height="12" rx="6" fill="#242b32"/>
-  <rect id="lang2-bar" x="150" y="199" width="290" height="12" rx="6" fill="#728b9e"/>
-  <text id="lang2-pct" x="690" y="210" fill="#728b9e" font-size="10">--%</text>
+  <rect id="lang2-bar" x="150" y="199" width="4" height="12" rx="6" fill="#728b9e"/>
+  <text id="lang2-pct" x="690" y="210" fill="#728b9e" font-size="10">0.8%</text>
 
-  <text id="lang3-name" x="46" y="246" fill="#dfe5ea" font-size="11">C++</text>
+  <text id="lang3-name" x="46" y="246" fill="#dfe5ea" font-size="11">Dart</text>
   <rect x="150" y="235" width="520" height="12" rx="6" fill="#242b32"/>
-  <rect id="lang3-bar" x="150" y="235" width="220" height="12" rx="6" fill="#627888"/>
-  <text id="lang3-pct" x="690" y="246" fill="#627888" font-size="10">--%</text>
+  <rect id="lang3-bar" x="150" y="235" width="4" height="12" rx="6" fill="#627888"/>
+  <text id="lang3-pct" x="690" y="246" fill="#627888" font-size="10">0.8%</text>
 
-  <text id="lang4-name" x="46" y="282" fill="#dfe5ea" font-size="11">Java</text>
+  <text id="lang4-name" x="46" y="282" fill="#dfe5ea" font-size="11">JavaScript</text>
   <rect x="150" y="271" width="520" height="12" rx="6" fill="#242b32"/>
-  <rect id="lang4-bar" x="150" y="271" width="160" height="12" rx="6" fill="#566b7a"/>
-  <text id="lang4-pct" x="690" y="282" fill="#566b7a" font-size="10">--%</text>
+  <rect id="lang4-bar" x="150" y="271" width="2" height="12" rx="6" fill="#566b7a"/>
+  <text id="lang4-pct" x="690" y="282" fill="#566b7a" font-size="10">0.4%</text>
 
   <text x="800" y="132" fill="#687683" font-size="8">SYSTEM STATE</text>
   <circle cx="805" cy="168" r="6" fill="#9ab7ca"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
@@ -51,7 +51,7 @@
 
   <line x1="46" y1="316" x2="1148" y2="316" stroke="#4e5761"/>
   <text x="46" y="346" fill="#6d7b88" font-size="8">LAST UPDATE</text>
-  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">Awaiting GitHub Action...</text>
+  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">2026-08-09 15:29 UTC</text>
   <text x="46" y="380" fill="#6d7b88" font-size="8">DATA SOURCE</text>
   <text x="190" y="380" fill="#8caac0" font-size="11">GitHub GraphQL + REST API</text>
 </g>

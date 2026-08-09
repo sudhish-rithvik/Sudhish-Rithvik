@@ -22,15 +22,15 @@
 
 <g font-family="monospace">
   <text x="46" y="137" fill="#687683" font-size="8">CONTRIBUTIONS · LAST 365 DAYS</text>
-  <text id="contributions" x="46" y="184" fill="#eef2f5" font-size="38" font-weight="700">000</text>
+  <text id="contributions" x="46" y="184" fill="#eef2f5" font-size="38" font-weight="700">174</text>
   <text x="180" y="182" fill="#91abc0" font-size="11">commits / contributions</text>
 
   <text x="410" y="137" fill="#687683" font-size="8">CURRENT STREAK</text>
-  <text id="current-streak" x="410" y="184" fill="#eef2f5" font-size="38" font-weight="700">00</text>
+  <text id="current-streak" x="410" y="184" fill="#eef2f5" font-size="38" font-weight="700">05</text>
   <text x="535" y="182" fill="#91abc0" font-size="11">days</text>
 
   <text x="720" y="137" fill="#687683" font-size="8">LONGEST STREAK</text>
-  <text id="longest-streak" x="720" y="184" fill="#eef2f5" font-size="38" font-weight="700">00</text>
+  <text id="longest-streak" x="720" y="184" fill="#eef2f5" font-size="38" font-weight="700">05</text>
   <text x="845" y="182" fill="#91abc0" font-size="11">days</text>
 
   <line x1="46" y1="220" x2="1148" y2="220" stroke="#525b65"/>
@@ -95,9 +95,9 @@
   </g>
 
   <text x="46" y="332" fill="#687683" font-size="8">PROFILE SIGNAL</text>
-  <text id="repos" x="46" y="358" fill="#dce3e8" font-size="13">Repositories: --</text>
-  <text id="followers" x="300" y="358" fill="#dce3e8" font-size="13">Followers: --</text>
-  <text id="commits" x="560" y="358" fill="#dce3e8" font-size="13">Recent commits: --</text>
+  <text id="repos" x="46" y="358" fill="#dce3e8" font-size="13">Repositories: 14</text>
+  <text id="followers" x="300" y="358" fill="#dce3e8" font-size="13">Followers: 11</text>
+  <text id="commits" x="560" y="358" fill="#dce3e8" font-size="13">Contributions: live</text>
   <text x="46" y="395" fill="#7e95a8" font-size="9">AUTO-REFRESHED BY GITHUB ACTIONS</text>
 </g>
 

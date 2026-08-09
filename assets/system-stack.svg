@@ -23,7 +23,7 @@
   <g id="layer1">
     <rect x="394" y="105" width="407" height="86" rx="20" fill="#30343a" stroke="#89919a" stroke-opacity=".72"/>
     <text x="420" y="132" fill="#9ba9b6" font-size="8" letter-spacing="2">L1 · LANGUAGES</text>
-    <text id="languages-1" x="420" y="163" fill="#eef2f5" font-size="15">Python · C++ · JavaScript</text>
+    <text id="languages-1" x="420" y="163" fill="#eef2f5" font-size="15">Python · TypeScript · Dart</text>
     <circle cx="770" cy="130" r="5" fill="#8faeca"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
   </g>
 
