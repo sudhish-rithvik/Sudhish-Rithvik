@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1195" height="430" viewBox="0 0 1195 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#11151b"/>
+    <stop offset=".55" stop-color="#0c1016"/>
+    <stop offset="1" stop-color="#080b10"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#7e8996" stroke-opacity=".08"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="1193" height="428" rx="22" fill="url(#bg)" stroke="#747c87" stroke-opacity=".58"/>
+<rect x="2" y="2" width="1191" height="426" rx="21" fill="url(#grid)"/>
+<text x="46" y="42" fill="#9fb8cd" font-family="monospace" font-size="9" letter-spacing="3">SYSTEM_LOG // TELEMETRY</text>
+<text x="1048" y="42" fill="#68737f" font-family="monospace" font-size="8" letter-spacing="2">LANGUAGES + STATE</text>
+<line x1="46" y1="60" x2="1148" y2="60" stroke="#626a74" stroke-opacity=".55"/>
+
+<text x="46" y="91" fill="#6d7b88" font-family="monospace" font-size="8" letter-spacing="2">SYSTEM_LOG // PROJECT TELEMETRY</text>
+<text x="1040" y="91" fill="#6d7b88" font-family="monospace" font-size="8">AUTO</text>
+
+<g font-family="monospace">
+  <text x="46" y="132" fill="#687683" font-size="8">LANGUAGE DISTRIBUTION // PUBLIC REPOSITORIES</text>
+
+  <text id="lang1-name" x="46" y="174" fill="#dfe5ea" font-size="11">Python</text>
+  <rect x="150" y="163" width="520" height="12" rx="6" fill="#242b32"/>
+  <rect id="lang1-bar" x="150" y="163" width="360" height="12" rx="6" fill="#8caac0"/>
+  <text id="lang1-pct" x="690" y="174" fill="#8caac0" font-size="10">--%</text>
+
+  <text id="lang2-name" x="46" y="210" fill="#dfe5ea" font-size="11">JavaScript</text>
+  <rect x="150" y="199" width="520" height="12" rx="6" fill="#242b32"/>
+  <rect id="lang2-bar" x="150" y="199" width="290" height="12" rx="6" fill="#728b9e"/>
+  <text id="lang2-pct" x="690" y="210" fill="#728b9e" font-size="10">--%</text>
+
+  <text id="lang3-name" x="46" y="246" fill="#dfe5ea" font-size="11">C++</text>
+  <rect x="150" y="235" width="520" height="12" rx="6" fill="#242b32"/>
+  <rect id="lang3-bar" x="150" y="235" width="220" height="12" rx="6" fill="#627888"/>
+  <text id="lang3-pct" x="690" y="246" fill="#627888" font-size="10">--%</text>
+
+  <text id="lang4-name" x="46" y="282" fill="#dfe5ea" font-size="11">Java</text>
+  <rect x="150" y="271" width="520" height="12" rx="6" fill="#242b32"/>
+  <rect id="lang4-bar" x="150" y="271" width="160" height="12" rx="6" fill="#566b7a"/>
+  <text id="lang4-pct" x="690" y="282" fill="#566b7a" font-size="10">--%</text>
+
+  <text x="800" y="132" fill="#687683" font-size="8">SYSTEM STATE</text>
+  <circle cx="805" cy="168" r="6" fill="#9ab7ca"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="824" y="172" fill="#dfe5ea" font-size="12">BUILDING</text>
+  <text x="800" y="205" fill="#687683" font-size="8">CURRENT OBJECTIVE</text>
+  <text x="800" y="231" fill="#dfe5ea" font-size="11">AI + software + hardware</text>
+  <text x="800" y="253" fill="#dfe5ea" font-size="11">with real-world impact.</text>
+
+  <line x1="46" y1="316" x2="1148" y2="316" stroke="#4e5761"/>
+  <text x="46" y="346" fill="#6d7b88" font-size="8">LAST UPDATE</text>
+  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">Awaiting GitHub Action...</text>
+  <text x="46" y="380" fill="#6d7b88" font-size="8">DATA SOURCE</text>
+  <text x="190" y="380" fill="#8caac0" font-size="11">GitHub GraphQL + REST API</text>
+</g>
+
+<text x="46" y="408" fill="#59636e" font-family="monospace" font-size="6" letter-spacing="2">0xSUDHISH // LIVE PROFILE TELEMETRY</text>
+</svg>
