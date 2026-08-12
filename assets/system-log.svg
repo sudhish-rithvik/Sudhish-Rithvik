@@ -25,12 +25,12 @@
   <text id="lang1-name" x="46" y="174" fill="#dfe5ea" font-size="11">Python</text>
   <rect x="150" y="163" width="520" height="12" rx="6" fill="#242b32"/>
   <rect id="lang1-bar" x="150" y="163" width="504" height="12" rx="6" fill="#8caac0"/>
-  <text id="lang1-pct" x="690" y="174" fill="#8caac0" font-size="10">97.0%</text>
+  <text id="lang1-pct" x="690" y="174" fill="#8caac0" font-size="10">96.9%</text>
 
   <text id="lang2-name" x="46" y="210" fill="#dfe5ea" font-size="11">TypeScript</text>
   <rect x="150" y="199" width="520" height="12" rx="6" fill="#242b32"/>
-  <rect id="lang2-bar" x="150" y="199" width="4" height="12" rx="6" fill="#728b9e"/>
-  <text id="lang2-pct" x="690" y="210" fill="#728b9e" font-size="10">0.8%</text>
+  <rect id="lang2-bar" x="150" y="199" width="5" height="12" rx="6" fill="#728b9e"/>
+  <text id="lang2-pct" x="690" y="210" fill="#728b9e" font-size="10">0.9%</text>
 
   <text id="lang3-name" x="46" y="246" fill="#dfe5ea" font-size="11">Dart</text>
   <rect x="150" y="235" width="520" height="12" rx="6" fill="#242b32"/>
@@ -51,7 +51,7 @@
 
   <line x1="46" y1="316" x2="1148" y2="316" stroke="#4e5761"/>
   <text x="46" y="346" fill="#6d7b88" font-size="8">LAST UPDATE</text>
-  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">2026-08-12 02:42 UTC</text>
+  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">2026-08-12 07:51 UTC</text>
   <text x="46" y="380" fill="#6d7b88" font-size="8">DATA SOURCE</text>
   <text x="190" y="380" fill="#8caac0" font-size="11">GitHub GraphQL + REST API</text>
 </g>
