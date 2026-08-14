@@ -51,7 +51,7 @@
 
   <line x1="46" y1="316" x2="1148" y2="316" stroke="#4e5761"/>
   <text x="46" y="346" fill="#6d7b88" font-size="8">LAST UPDATE</text>
-  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">2026-08-14 13:41 UTC</text>
+  <text id="last-update" x="190" y="346" fill="#dfe5ea" font-size="11">2026-08-14 19:12 UTC</text>
   <text x="46" y="380" fill="#6d7b88" font-size="8">DATA SOURCE</text>
   <text x="190" y="380" fill="#8caac0" font-size="11">GitHub GraphQL + REST API</text>
 </g>
