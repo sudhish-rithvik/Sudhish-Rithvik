@@ -96,7 +96,7 @@
 
   <text x="46" y="332" fill="#687683" font-size="8">PROFILE SIGNAL</text>
   <text id="repos" x="46" y="358" fill="#dce3e8" font-size="13">Repositories: 17</text>
-  <text id="followers" x="300" y="358" fill="#dce3e8" font-size="13">Followers: 13</text>
+  <text id="followers" x="300" y="358" fill="#dce3e8" font-size="13">Followers: 14</text>
   <text id="commits" x="560" y="358" fill="#dce3e8" font-size="13">Contributions: live</text>
   <text x="46" y="395" fill="#7e95a8" font-size="9">AUTO-REFRESHED BY GITHUB ACTIONS</text>
 </g>
