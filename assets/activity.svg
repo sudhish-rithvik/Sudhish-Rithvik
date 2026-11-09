@@ -26,7 +26,7 @@
   <text x="180" y="182" fill="#91abc0" font-size="11">commits / contributions</text>
 
   <text x="410" y="137" fill="#687683" font-size="8">CURRENT STREAK</text>
-  <text id="current-streak" x="410" y="184" fill="#eef2f5" font-size="38" font-weight="700">02</text>
+  <text id="current-streak" x="410" y="184" fill="#eef2f5" font-size="38" font-weight="700">00</text>
   <text x="535" y="182" fill="#91abc0" font-size="11">days</text>
 
   <text x="720" y="137" fill="#687683" font-size="8">LONGEST STREAK</text>
